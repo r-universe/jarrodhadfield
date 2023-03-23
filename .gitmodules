@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MasterBayes"]
+	path = MasterBayes
+	url = https://github.com/cran/MasterBayes
+	shallow = true
+	registered = true
 [submodule "MCMCglmm"]
 	path = MCMCglmm
 	url = https://github.com/jarrodhadfield/mcmcglmm
